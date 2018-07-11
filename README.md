@@ -5,7 +5,7 @@ This is a little "toolkit" I compiled together in one convenient bundle for peop
 To install the debugging menu overhaul, copy and replace the DebugOptions.txt to (root)/core/scripts and overwrite. Call the menu by typing "debugsystemui" in the console.
 
 
-                 Debugging System UI Overhaul Changelog: 
+                        Debugging System UI Overhaul Changelog: 
 
 ♥ Rescaled the width and height of the panel, because a part of one of the tabs were cut off originally.
 
