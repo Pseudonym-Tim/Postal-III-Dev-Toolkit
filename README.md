@@ -1,5 +1,5 @@
 # Postal3Devtoolkit
-This is a little "toolkit" I compiled together in one convenient bundle for people who are into Postal 3 modding. It includes: The Postal 3 SDK, an overhauled debugging menu (debugsystemui panel), and some useful batch scripts. 
+This is a little "toolkit" I compiled together in one convenient bundle for people who are into Postal 3 modding, but intended mainly for Catharsis Reborn testers. It includes: A copy of the Postal 3 SDK, an overhauled debugging menu (debugsystemui panel), and some useful batch scripts. 
 
 
 To install the debugging menu overhaul, copy and replace the DebugOptions.txt to (root)/core/scripts and overwrite. Call the menu by typing "debugsystemui" in the console.
